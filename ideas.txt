@@ -1,0 +1,9 @@
+EDIT MODE
+- Tables
+    - (List of Tables)
+        - Edit Table
+            - 
+
+DESIGN MODE (maybe)
+- Tables
+- Export Schema
